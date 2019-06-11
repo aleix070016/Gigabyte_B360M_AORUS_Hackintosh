@@ -3,12 +3,12 @@
 Modified EFI files from 
 https://github.com/littlegtplr/Hackintosh-Clover-folder-for-Coffee-Lake-builds
 
-Configuation: 
+## Configuation: 
 i5 9400F + Gigabyte B360M AORUS
 Sapphire - Vega 56 PULSE
 Broadcom CS94360CSAX with PCIe adapter
 
-What works:
+## What works:
 Sound card
 
 Graphic card with hardware acceleration
@@ -26,10 +26,12 @@ Hand-off
 Airdrop
 
 
-Not tested but should work:
+## Not tested but should work:
 iMessage
+
 Facetime
+
 Sleep + wake up
 
-Problem:
+## Problem:
 Shut down
