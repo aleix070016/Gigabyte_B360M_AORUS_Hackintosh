@@ -10,17 +10,26 @@ Broadcom CS94360CSAX with PCIe adapter
 
 What works:
 Sound card
+
 Graphic card with hardware acceleration
+
 USB ports (full-speed)
+
 LAN WLAN and Bluetooth
+
 Mac app store
+
 iCloud
+
 Hand-off
+
 Airdrop
+
 
 Not tested but should work:
 iMessage
 Facetime
+Sleep + wake up
 
 Problem:
 Shut down
